@@ -25,8 +25,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/go-spring/go-spring-core"
-	"github.com/go-spring/go-spring-parent/spring-logger"
+	"github.com/go-spring/spring-core"
+	"github.com/go-spring/spring-logger"
 )
 
 const (

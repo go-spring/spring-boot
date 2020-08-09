@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/go-spring/go-spring-core"
-	"github.com/go-spring/go-spring-parent/spring-utils"
+	"github.com/go-spring/spring-core"
+	"github.com/go-spring/spring-utils"
 )
 
 ///////////////////// gRPC Server //////////////////////

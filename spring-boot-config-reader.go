@@ -22,7 +22,7 @@ import (
 	"os"
 	"sort"
 
-	"github.com/go-spring/go-spring-parent/spring-utils"
+	"github.com/go-spring/spring-utils"
 	"github.com/magiconair/properties"
 	"github.com/spf13/viper"
 )

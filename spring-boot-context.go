@@ -17,7 +17,7 @@
 package SpringBoot
 
 import (
-	"github.com/go-spring/go-spring-core"
+	"github.com/go-spring/spring-core"
 )
 
 // ApplicationContext Application 上下文，这个接口现在只是继承

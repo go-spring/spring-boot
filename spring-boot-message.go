@@ -17,8 +17,8 @@
 package SpringBoot
 
 import (
-	"github.com/go-spring/go-spring-core"
-	"github.com/go-spring/go-spring-message"
+	"github.com/go-spring/spring-core"
+	"github.com/go-spring/spring-message"
 )
 
 // RegisterConsumer 注册 BIND 方式的消费者

@@ -20,8 +20,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/go-spring/go-spring-core"
-	"github.com/go-spring/go-spring-web"
+	"github.com/go-spring/spring-core"
+	"github.com/go-spring/spring-web"
 )
 
 // WebMapping Web 路由映射表

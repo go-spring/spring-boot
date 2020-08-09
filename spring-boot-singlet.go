@@ -20,10 +20,10 @@ import (
 	"context"
 	"time"
 
-	"github.com/go-spring/go-spring-core"
-	"github.com/go-spring/go-spring-parent/boot-starter"
-	"github.com/go-spring/go-spring-parent/spring-logger"
-	"github.com/go-spring/go-spring-web"
+	"github.com/go-spring/boot-starter"
+	"github.com/go-spring/spring-core"
+	"github.com/go-spring/spring-logger"
+	"github.com/go-spring/spring-web"
 )
 
 var g = &struct {
